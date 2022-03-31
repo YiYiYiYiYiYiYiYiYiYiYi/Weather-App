@@ -63,3 +63,12 @@ li {
 li:first-letter {
   text-transform: capitalize;
 }
+
+a {
+  text-decoration: none;
+}
+
+.weather-temperature .active {
+  color: black;
+  cursor: default;
+}
